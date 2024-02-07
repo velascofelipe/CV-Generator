@@ -1,3 +1,22 @@
+# Generador de CV (En continua mejora)
+Detalle de página inicial donde se muestran algunos campos para ingresar datos personales y posteriormente generar el CV.
+
+![image](https://github.com/velascofelipe/CV-Generator/assets/56605566/a7dec975-3daa-487d-b4e4-238b837d0c1e)
+
+
+# Generación de PDF
+Se genera PDF que contiene el CV, este será mejorado visualmente, entregando un CV moderno y agradable a la vista.
+
+![image](https://github.com/velascofelipe/CV-Generator/assets/56605566/440de058-caae-4d3f-a5f9-1ae8c04a009e)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
